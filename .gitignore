@@ -127,3 +127,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.idea/
+
+output_meshes_labeled.mat
+coma_data_om.mat
+venv*
+.vscode
+.gitignore
+new
+8001
+*.pyc
+old
+decoder*
+encoder*
+N1*
+N2*
+*pretrained-dense
+*pretrained-pointnet
