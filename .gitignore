@@ -144,3 +144,9 @@ N1*
 N2*
 *pretrained-dense
 *pretrained-pointnet
+/data/coma_FEM.mat
+/data/PI_coma.mat
+/data/remeshed_200.mat
+/data/remeshed_500.mat
+/data/remeshed_1000.mat
+/data/spec_esteem.mat
